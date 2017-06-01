@@ -1,0 +1,83 @@
+Logs:
+New Client From /192.168.129.62:4021
+Control Connection established.
+Data Connection established.
+username received.
+username is valid.
+password received.
+logged in as Admin.
+LIST Command Receiced ...
+List:
+2005, CUTE A concolic unit testing engine for C.pdf
+Agenda.docx
+flower.jpeg
+lab.pptx
+secret_pass.txt
+secret_test.py
+
+RETR Command Receiced ...
+get file from server.
+file sent for client.
+RETR Command Receiced ...
+get file from server.
+file sent for client.
+Logs:
+New Client From /192.168.129.62:4021
+Control Connection established.
+Data Connection established.
+username received.
+username is valid.
+password received.
+logged in as usual user.
+LIST Command Receiced ...
+List:
+Agenda.docx
+abc
+flower.jpeg
+lab.pptx
+
+RETR Command Receiced ...
+get file from server.
+file sent for client.
+RETR Command Receiced ...
+get file from server.
+file sent for client.
+Logs:
+New Client From /127.0.0.1:4021
+Control Connection established.
+Data Connection established.
+username received.
+username is valid.
+password received.
+logged in as Admin.
+LIST Command Receiced ...
+List:
+Agenda.docx
+abc
+flower.jpeg
+lab.pptx
+secret_pass.txt
+secret_test.py
+
+RETR Command Receiced ...
+get file from server.
+file sent for client.
+DELE Command Receiced ...
+QUIT Command Receiced ...
+Connection Closed.
+Logs:
+New Client From /127.0.0.1:4021
+Control Connection established.
+Data Connection established.
+username received.
+username is valid.
+password received.
+logged in as Admin.
+RETR Command Receiced ...
+get file from server.
+file sent for client.
+RETR Command Receiced ...
+file cached.
+file sent for client.
+QUIT Command Receiced ...
+Connection Closed.

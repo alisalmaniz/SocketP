@@ -1,0 +1,52 @@
+Logs:
+New Client From /192.168.129.62:4021
+Control Connection established.
+Data Connection established.
+username received.
+username is valid.
+password received.
+logged in as Admin.
+LIST Command Receiced ...
+List:
+Agenda.docx
+abc
+flower.jpeg
+lab.pptx
+secret_pass.txt
+secret_test.py
+
+RETR Command Receiced ...
+get file from server.
+file sent for client.
+RETR Command Receiced ...
+get file from server.
+file sent for client.
+Logs:
+New Client From /192.168.129.62:4021
+Control Connection established.
+Data Connection established.
+username received.
+username is valid.
+password received.
+logged in as Admin.
+LIST Command Receiced ...
+List:
+Agenda.docx
+abc
+flower.jpeg
+lab.pptx
+secret_pass.txt
+secret_test.py
+
+RETR Command Receiced ...
+get file from server.
+file sent for client.
+DELE Command Receiced ...
+RMD Command Receiced ...
+All cached files deleted.
+RETR Command Receiced ...
+get file from server.
+file sent for client.
+DELE Command Receiced ...
+DELE Command Receiced ...
+cached file deleted.
